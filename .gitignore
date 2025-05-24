@@ -1,3 +1,2 @@
-# Add these lines to your .gitignore
 firebase-config.js
 firebase-config*.js
